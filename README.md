@@ -18,5 +18,8 @@ Agregamos estas dependencias y configuramos application.yml
 ![image](https://github.com/joanvasquez21/microservices-gateway/assets/70104624/51df16c2-c27a-4487-94fe-7527b373e41d)
 Filters: es necesario porque el path esta compuesto por dos segmentos /api/productos/**
 ![image](https://github.com/joanvasquez21/microservices-gateway/assets/70104624/a07f22c5-6c29-4e69-985c-a3006bfe27da)
-
 -StripPrefix=2
+
+# Implementando filtros globales PRE Y POST
+
+![image](https://github.com/joanvasquez21/microservices-gateway/assets/70104624/1ad3efd5-49bf-4917-b048-4f8c665400c5)
