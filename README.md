@@ -10,3 +10,9 @@ Manejo de Predicates
 # Esquema
 Cualquier cliente que se conecte a nuestro sisetma siempre pasa por gateway y mediante rutas que le damos a los microservicios accedemos a ellos y se va registando en el servidor de eureka
 ![image](https://github.com/joanvasquez21/microservices-gateway/assets/70104624/429b58de-f0ad-459e-a996-f294c443839f)
+# Configuración 
+Agregamos estas dependencias y configuramos application.yml
+
+![image](https://github.com/joanvasquez21/microservices-gateway/assets/70104624/40a3b988-cc8a-44d3-aac5-63803883e70c)
+
+![image](https://github.com/joanvasquez21/microservices-gateway/assets/70104624/51df16c2-c27a-4487-94fe-7527b373e41d)
